@@ -1,4 +1,4 @@
-# Erlang
+# Mid Project BDD
 Erlang_Project
 This is the mid semester project in Concurrent and Distributed Programming course. In this project we use sequential erlang. The input is a boolean function, and the program has 2 functions:
 
