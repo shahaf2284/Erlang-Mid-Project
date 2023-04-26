@@ -15,4 +15,5 @@ A BDD tree is called reduced if the following two rules have been applied to it:
 1. Merge any isomorphic (identical) sub-graphs (bonus)
 2. Eliminate any node whose two children are isomorphic
 The construction of BDD is based on Shannon expansion theory:
-  𝑓(𝑥!, 𝑥",…, 𝑥#) = 𝑥! ∙ 𝑓(1, 𝑥", 𝑥$,…, 𝑥#) + 𝑥++!+ ∙ 𝑓(0, 𝑥", 𝑥$,…, 𝑥#)
+
+    𝑓(𝑥!, 𝑥",…, 𝑥#) = 𝑥! ∙ 𝑓(1, 𝑥", 𝑥$,…, 𝑥#) + 𝑥++!+ ∙ 𝑓(0, 𝑥", 𝑥$,…, 𝑥#)
